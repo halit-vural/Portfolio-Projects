@@ -26,6 +26,8 @@ Class weights
 
 #### Methods used
 
+
+
 ### Heart-stroke Prediction
 This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:
 
