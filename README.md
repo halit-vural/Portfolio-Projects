@@ -22,29 +22,25 @@ Deep Learning with Tensorflow,\
 Pandas,\
 Class weights
 
+---
+
 ### Fraud Detection for Bank Transactions
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where it has **492 frauds** out of **284,807** transactions. The dataset is **highly unbalanced**, the positive class (frauds) account for 0.172% of all transactions.
----
+
 
 The aim of this project is to predict whether a credit card transaction is fraudulent. Of course, this is not easy to do.
 First of all, we needed to analyze and recognize our data well in order to draw our roadmap and choose the correct arguments we use. Accordingly, we examined the frequency distributions of variables. We then observed variable correlations and tried to explore multicollinearity. The distribution of the target variable classes over other variables was visualized accordingly. 
 
-We had take care of missing values and outliers in the following section.
-
-After these procedures, we moved on to the model building stage by doing the basic data pre-processing. 
-
-Starting with Logistic Regression and evaluate model performance, we applied the Unbalanced Data Techniques used to increase the performance. Next, we observed their effects.
-
-Then, we used four different algorithms in the model building phase. 
-
-In the final step, we deployed the model using ***Streamlit API***. 
+We had take care of missing values and outliers in the following section. After these procedures, we moved on to the model building stage by doing the basic data pre-processing. Starting with Logistic Regression and evaluate model performance, we applied the Unbalanced Data Techniques used to increase the performance. Next, we observed their effects. Then, we used four different algorithms in the model building phase. In the final step, we deployed the model using Streamlit API. 
 
 #### Methods used
 Logistic Regression, Random Forest, XGBoost,and Neural Network algorithms \
 Unbalanced Data Techniques \
 Seaborn, Matplotlib and Yellowbrick \
 Streamlit API
+
+---
 
 ### Heart-stroke Prediction
 This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:
@@ -63,10 +59,13 @@ KNN, Logistic Regression \
 Pandas, Numpy, \
 Seaborn, Yellowbrick
 
+---
+
 ### Tree Coverage Types (Multi-class)
 
 #### Methods used
 
+---
 ---
 ## Regression
 ### House Price Prediction
@@ -74,13 +73,14 @@ Seaborn, Yellowbrick
 #### Methods used
 
 
-
+---
 ### Used Car Price Prediction
 
 #### Methods Used
 Linear, Ridge, Lasso Regression, AdaBoost, XGBoost <br>
 Pandas, Numpy, Matplotlib, Seaborn
 
+---
 ---
 ## Clustering
 
@@ -89,7 +89,7 @@ Pandas, Numpy, Matplotlib, Seaborn
 #### Methods used
 
 
-
+---
 ### Military Power 
 
 #### Methods used
