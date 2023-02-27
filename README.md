@@ -66,7 +66,7 @@ Seaborn, Yellowbrick
 #### Methods used
 
 ---
----
+
 ## Regression
 ### House Price Prediction
 
@@ -81,7 +81,7 @@ Linear, Ridge, Lasso Regression, AdaBoost, XGBoost <br>
 Pandas, Numpy, Matplotlib, Seaborn
 
 ---
----
+
 ## Clustering
 
 ### Customer Segmentation
