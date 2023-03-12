@@ -1,7 +1,7 @@
 # Portfolio Projects
  This repository is prepared to display some of the projects that I have completed in my career. If you have reached this far, it means that you are interested in my work. I am appreciated. Please let me know your thoughts if you would like to help me.
  
- You can reach me through my email. Please visit my  [personal homepage](https://bosnahalit.wixsite.com/hvural) or just send me a message through halit_vural( at ) techno.study. 
+ You can reach me through my email. Please visit my  [personal homepage](https://bosnahalit.wixsite.com/hvural) or just send me a message through halit_vural ( at ) techno.study. 
  
  ### Recent Projects Brief 
 * NLP state-of-the-art project for clone detection on coding data from developers - CodeBERT, UniXcoder, Doc2Vec optimizations - word embeddings, transformers - (ongoing..)
